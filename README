@@ -1,0 +1,5 @@
+This is a jQuery plugin for working with the VLC browser plugin.
+This is pre-alpha, and as such, probably does not work.
+
+There is also another jQuery plugin for VLC here:
+https://github.com/revolunet/VLCcontrols
